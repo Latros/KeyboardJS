@@ -16,16 +16,16 @@
     "http://robertwhurst.github.com/KeyboardJS/"
   ],
   "bugs": {
-    "web": "https://github.com/RobertWHurst/KeyboardJS/issues"
+    "web": "https://github.com/latros/KeyboardJS/issues"
   },
   "repository": {
       "type": "git",
-      "url": "git@github.com:RobertWHurst/KeyboardJS.git"
+      "url": "git@github.com:latros/KeyboardJS.git"
   },
   "licenses": [
     {
       "name": "BSD License",
-      "url": "https://raw.github.com/RobertWHurst/KeyboardJS/master/license.txt"
+      "url": "https://raw.github.com/latros/KeyboardJS/master/license.txt"
     }
   ],
   "homepage": "http://robertwhurst.github.com/KeyboardJS/",
